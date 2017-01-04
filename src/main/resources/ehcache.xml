@@ -20,5 +20,7 @@
 
     <cache alias="com.jhipstertutorial.domain.User.persistentTokens" uses-template="simple"/>
 
+    <cache alias="com.jhipstertutorial.domain.Contactus" uses-template="simple"/>
+
     <!-- jhipster-needle-ehcache-add-entry -->
 </config>
